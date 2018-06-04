@@ -7,6 +7,8 @@ Send a PR to add moar memes!
   - ![new interface](images/brand_new_interface.jpg)
 - Help wanted!
   - ![mother little helper](images/octohelp.jpg)
+  - Avaiable in classic skin
+  - ![Classic helper](images/classic_helper.jpg)
 - RUN
   - ![run](images/run.jpg)
 - Updates
