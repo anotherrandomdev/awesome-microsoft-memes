@@ -7,6 +7,7 @@ Send a PR to add moar memes!
   - Developers migrating after microsoft acquisition!
   - ![Developers reading microsoft news](images/nice_hat_pal.jpg)
 - Weird Al Interwebz
+  - ![flash_notice](images/flash_notice.jpg)
   - ![Microsoft vs Avengers](images/next_avengers.jpg)
 ## PT-BR
 - Lições de vida.
