@@ -2,10 +2,11 @@ Send a PR to add moar memes!
 
 [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 # Memes
-## C
+## EN-US
+- Help wanted!
+  - ![mother little helper](images/octohelp.jpg)
 - RUN
   - ![run](images/run.jpg)
-## EN-US
 - Updates
   - ![Update](images/updates.jpg)
   - ![Update](images/updates2.jpg)
