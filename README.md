@@ -3,6 +3,9 @@ Send a PR to add moar memes!
 [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 # Memes
 ## EN-US
+- Updates
+  - ![Update](images/updates.jpg)
+  - ![Update](images/updates2.jpg)
 - Paranoid
   - Developers migrating after microsoft acquisition!
   - ![Developers reading microsoft news](images/nice_hat_pal.jpg)
@@ -17,3 +20,6 @@ Send a PR to add moar memes!
   - ![A sua vida é uma mentira!](images/snapshot.jpg)
 - True Stories
   -  ![first meme](images/true_story1.jpg)
+
+
+© Everything here was legally kibado.
