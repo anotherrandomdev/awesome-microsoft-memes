@@ -3,6 +3,9 @@ Send a PR to add moar memes!
 [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 # Memes
 ## EN-US
+- Paranoid
+  - Developers migrating after microsoft acquisition!
+  - ![Developers reading microsoft news](images/nice_hat_pal.jpg)
 - Weird Al Interwebz
   - ![Microsoft vs Avengers](images/next_avengers.jpg)
 ## PT-BR
