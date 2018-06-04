@@ -3,6 +3,8 @@ Send a PR to add moar memes!
 [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 # Memes
 ## EN-US
+- Try our new interface!
+  - ![new interface](images/brand_new_interface.jpg)
 - Help wanted!
   - ![mother little helper](images/octohelp.jpg)
 - RUN
