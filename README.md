@@ -9,6 +9,8 @@ Send a PR to add moar memes!
   - ![mother little helper](images/octohelp.jpg)
   - Avaiable in classic skin
   - ![Classic helper](images/classic_helper.jpg)
+  - AWS to Azure helper
+  - ![Classic helper](images/classic_helper_aws_azure.jpeg)
 - RUN
   - ![run](images/run.jpg)
 - Updates
@@ -22,6 +24,8 @@ Send a PR to add moar memes!
 - how to use flash[:notice]
   - ![flash_notice](images/flash_notice.jpg)
   - ![flash_notice](images/flash_notice2.jpg)
+- New CLI advisor!
+  - ![new interface](images/git_cli.jpg)
 ## PT-BR
 - Lições de vida.
   - “Para quem sairá do Github por causa da Microsoft, saiba que o Gitlab é hospedado no Azure e pasmem: Azure é da Microsoft.” 
