@@ -25,7 +25,7 @@ Send a PR to add moar memes!
   - ![flash_notice](images/flash_notice.jpg)
   - ![flash_notice](images/flash_notice2.jpg)
 - New CLI advisor!
-  - ![new interface](images/git_cli.jpg)
+  - ![new interface](images/git_cli.jpeg)
 ## PT-BR
 - Lições de vida.
   - “Para quem sairá do Github por causa da Microsoft, saiba que o Gitlab é hospedado no Azure e pasmem: Azure é da Microsoft.” 
